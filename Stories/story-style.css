@@ -1,8 +1,9 @@
-body {
-    background-color: #000000;
-    color: #FFFFFF;
+@font-face {
+    font-family: Maison 'Courier New', Courier, monospace;
+    src: format("opentype");
 }
 
-img {
-    
+body {
+    background-color: #151515;
+    color: #FFFFFF;
 }
